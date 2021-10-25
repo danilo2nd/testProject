@@ -1,1 +1,20 @@
-the goal of this project is to create an all-in-one education workspace where you can plan out your schedules, take notes, make to-do lists, list achievements, and more quality of life features to help you with your studies. although this is aimed for students, even people with jobs will be able to use this.
+Project Introduction
+
+the goal of this project is to create an all-in-one education workspace where you can plan out your schedules, take notes, make to-do lists,
+list achievements, and more quality of life features to help you with your studies. although this is aimed for students,
+even people with jobs will be able to use this.
+
+Project Functions
+
+this project aims to be an all-in-one workspace for students, but since this is just at startup, it will at first have these following features:
+- to-do lists
+- planner
+- calendar
+- note-taking
+
+but as time goes on, we plan to incorporate these features:
+- pomodoro study timer
+- class/course section
+- instructor lists
+- simple calculator
+and many more!
