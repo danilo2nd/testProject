@@ -1,0 +1,1 @@
+the goal of this project is to create an all-in-one education workspace where you can plan out your schedules, take notes, make to-do lists, list achievements, and more quality of life features to help you with your studies. although this is aimed for students, even people with jobs will be able to use this.
